@@ -1,7 +1,7 @@
 
 <h1> Restaurant Success Predictor based on Yelp Dataset(Group Project, CMPE255 - Fall, 18)</h1>
 
-This project was a submission for major project for Data Mining class().
+This project was a submission for major project for Data Mining class.
 I conducted the analysis of the business, cuisine and geo-location features present 
 in the publicly available Yelp dataset (6.84GB) using Python. The major steps included 
 feature engineering, clustering nearby restaurants using DBScan to predict zip codes to 
